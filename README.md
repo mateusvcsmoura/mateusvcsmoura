@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusvcsmoura&label=Profile%20views&color=0e75b6&style=flat" alt="mateusvcsmoura" /> </p>
 
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas em **FATEC Zona Sul - Dom Paulo Evaristo Arns**
+
 - 🌱 Atualmente estudando **Node.js, TypeScript**
 
 - 👯 Procuro colaborar em **Projetos Acadêmicos com foco em Desenvolvimento Web**
@@ -28,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusvcsmoura&show_icons=true&locale=en" alt="mateusvcsmoura" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusvcsmoura&" alt="mateusvcsmoura" /></p>
-

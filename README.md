@@ -9,13 +9,13 @@
 
 - 👯 Procuro colaborar em **Projetos Acadêmicos com foco em Desenvolvimento Web**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [[GitHub](https://github.com/mateusvcsmoura)]([GitHub](https://github.com/mateusvcsmoura))
+- 👨‍💻 Todos os meus projetos estão disponíveis em [[GitHub](https://github.com/mateusvcsmoura)]
 
 - 💬 Me pergunte sobre **JavaScript, Lógica de Programação, Projetos Acadêmicos**
 
-- 📫 Como me contatar **mateusvcsmoura@gmail.com**
+- 📫 Como me contatar: **mateusvcsmoura@gmail.com**
 
-- 📄 Conheça minhas experiências [[Currículo](https://drive.google.com/file/d/1mSQqZeny9If4UmfpZmZpsgPUrWMKJSMF/view?usp=sharing)]([Currículo](https://drive.google.com/file/d/1mSQqZeny9If4UmfpZmZpsgPUrWMKJSMF/view?usp=sharing))
+- 📄 Conheça minhas experiências [[Currículo](https://drive.google.com/file/d/1mSQqZeny9If4UmfpZmZpsgPUrWMKJSMF/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

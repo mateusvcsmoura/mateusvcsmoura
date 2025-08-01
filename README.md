@@ -15,7 +15,7 @@
 
 - 📫 Como me contatar **mateusvcsmoura@gmail.com**
 
-- 📄 Conheça minhas experiências [[Currículo](https://drive.google.com/file/d/1CxhBvxdV4MrHxfzndkEtgdDlZGkWiA6D/view?usp=sharing)]([Currículo](https://drive.google.com/file/d/1CxhBvxdV4MrHxfzndkEtgdDlZGkWiA6D/view?usp=sharing))
+- 📄 Conheça minhas experiências ([Currículo](https://drive.google.com/file/d/1CxhBvxdV4MrHxfzndkEtgdDlZGkWiA6D/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

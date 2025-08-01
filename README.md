@@ -9,7 +9,7 @@
 
 - 👯 Procuro colaborar como **desenvolvedor backend júnior, especialmente com Node.js, Express, bancos de dados e autenticação JWT.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [[GitHub](https://github.com/mateusvcsmoura)]([GitHub](https://github.com/mateusvcsmoura))
+- 👨‍💻 Todos os meus projetos estão disponíveis em [GitHub](https://github.com/mateusvcsmoura)
 
 - 💬 Me pergunte sobre **Node.js, API REST, Express**
 

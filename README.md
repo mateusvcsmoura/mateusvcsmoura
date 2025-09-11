@@ -1,32 +1,58 @@
-<h1 align="center">Oi 👋, Eu sou Mateus Moura</h1>
-<h3 align="center">Desenvolvedor Backend Júnior em busca da primeira experiência.</h3>
+<div align="center">
+  <a href="https://github.com/mateusvcsmoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusvcsmoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvcsmoura&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusvcsmoura&label=Profile%20views&color=0e75b6&style=flat" alt="mateusvcsmoura" /> </p>
+# Mateus Moura
+*Desenvolvedor Backend em formação, construindo o futuro, uma API de cada vez.*
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas em **FATEC Zona Sul - Dom Paulo Evaristo Arns**
+Olá! Sou um desenvolvedor backend focado no ecossistema **TypeScript** e **Node.js**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC e busco ativamente minha **primeira oportunidade de estágio**, onde eu possa aplicar meu conhecimento em arquitetura de software e modelagem de dados para criar soluções robustas e escaláveis.
 
-- 🌱 Atualmente estudando **Node.js, TypeScript, SQL**
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Sul (2024-2026).
+- 🚀 Focado em APIs RESTful, arquitetura em camadas e boas práticas de desenvolvimento.
+- 💼 Em busca de uma oportunidade de estágio para resolver problemas reais com código limpo e eficiente.
+- 🌐 Inglês Intermediário (B2), com boa capacidade de leitura técnica.
 
-- 👯 Procuro colaborar como **desenvolvedor backend júnior, especialmente com Node.js, Express, bancos de dados e autenticação JWT.**
+---
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [GitHub](https://github.com/mateusvcsmoura)
+### 🛠️ Minha Caixa de Ferramentas (Toolbox)
 
-- 💬 Me pergunte sobre **Node.js, API REST, Express**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
 
-- 📫 Como me contatar **mateusvcsmoura@gmail.com**
+---
 
-- 📄 Conheça minhas experiências ([Currículo](https://drive.google.com/file/d/1VYI0Gkk6m6-VtXX7aAdmWG7Ma9VqRTQB/view?usp=drive_link))
+### 🌱 Próximos Passos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mateusvcsmoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusvcsmoura" height="30" width="40" /></a>
-</p>
+Estou sempre aprendendo e me aprofundando em tecnologias que complementam minha formação como desenvolvedor backend. Atualmente, meu foco de estudo está em:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **Testes automatizados**: Implementação de testes unitários e de integração com Jest/Vitest.
+- **Containerização**: Conceitos e prática com Docker para otimizar ambientes de desenvolvimento.
+- **CI/CD**: Entendendo os fundamentos de integração e entrega contínua.
+- **Cloud (AWS)**: Explorando serviços essenciais para aplicações backend na nuvem.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusvcsmoura&show_icons=true&locale=en&layout=compact" alt="mateusvcsmoura" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusvcsmoura&show_icons=true&locale=en" alt="mateusvcsmoura" /></p>
+### 📫 Como me encontrar
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusvcsmoura&" alt="mateusvcsmoura" /></p>
+<a href="https://www.linkedin.com/in/mateusvcsmoura" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mateusvcsmoura@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>

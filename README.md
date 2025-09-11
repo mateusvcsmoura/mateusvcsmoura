@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://github.com/mateusvcsmoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusvcsmoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvcsmoura&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 # Mateus Moura
 *Desenvolvedor Backend em formação, construindo o futuro, uma API de cada vez.*
 
@@ -56,3 +49,10 @@ Estou sempre aprendendo e me aprofundando em tecnologias que complementam minha 
 <a href="mailto:mateusvcsmoura@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+<div align="center">
+  <a href="https://github.com/mateusvcsmoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusvcsmoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvcsmoura&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>

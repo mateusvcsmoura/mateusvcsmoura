@@ -1,5 +1,4 @@
 # Mateus Moura
-*Desenvolvedor Backend em formação, construindo o futuro, uma API de cada vez.*
 
 Olá! Sou um desenvolvedor backend focado no ecossistema **TypeScript** e **Node.js**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC e busco ativamente minha **primeira oportunidade de estágio**, onde eu possa aplicar meu conhecimento em arquitetura de software e modelagem de dados para criar soluções robustas e escaláveis.
 
@@ -36,7 +35,7 @@ Olá! Sou um desenvolvedor backend focado no ecossistema **TypeScript** e **Node
 
 Estou sempre aprendendo e me aprofundando em tecnologias que complementam minha formação como desenvolvedor backend. Atualmente, meu foco de estudo está em:
 
-- **Testes automatizados**: Implementação de testes unitários e de integração com Jest/Vitest.
+- **Testes automatizados**: Implementação de testes unitários e de integração com Jest.
 - **Containerização**: Conceitos e prática com Docker para otimizar ambientes de desenvolvimento.
 - **CI/CD**: Entendendo os fundamentos de integração e entrega contínua.
 - **Cloud (AWS)**: Explorando serviços essenciais para aplicações backend na nuvem.

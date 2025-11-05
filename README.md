@@ -1,6 +1,6 @@
 # Mateus Moura
 
-Olá! Sou um desenvolvedor backend focado no ecossistema **TypeScript** e **Node.js**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC e busco ativamente minha **primeira oportunidade de estágio**, onde eu possa aplicar meu conhecimento em arquitetura de software e modelagem de dados para criar soluções robustas e escaláveis.
+Olá! Sou um desenvolvedor backend focado no ecossistema **TypeScript** e **Node.js**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Sul (2024-2026).
 - 🚀 Focado em APIs RESTful, arquitetura em camadas e boas práticas de desenvolvimento.

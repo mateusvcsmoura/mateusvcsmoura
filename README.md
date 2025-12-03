@@ -4,7 +4,7 @@ Atualmente atuo como **Analista de QA focado em Automação de Testes Funcionais
 
 - **Java + Selenium**
 - **BDD (Cucumber + Gherkin)**
-- Testes funcionais e validações no **Solar (Claro), Claro Flex e demais aplicações Claro Brasil**
+- Testes funcionais e validações no **Solar (Salesforce), Claro Flex e demais aplicações Claro Brasil**
 - Execução de cenários ponta a ponta, evidências e documentação
 
 ---
